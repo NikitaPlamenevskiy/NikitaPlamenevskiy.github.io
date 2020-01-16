@@ -1,2 +1,2 @@
-# [GitHub Page](https://NikitaPlamenevskiy/sprint10.github.io)
-v0.0.1
+# [GitHub Page](https://nikitaplamenevskiy.github.io/)
+v0.0.3
