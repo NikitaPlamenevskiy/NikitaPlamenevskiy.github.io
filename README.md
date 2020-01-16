@@ -1,2 +1,2 @@
-# [GitHub Page](https://NikitaPlamenevskiy/.github.io)
+# [GitHub Page](https://nikitaplamenevskiy.github.io/)
 v0.0.3
